@@ -1,0 +1,15 @@
+{
+  "name": "express_min_start",
+  "version": "1.0.0",
+  "description": "Minimum Express boilerplate",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robfree",
+  "license": "ISC"
+}
